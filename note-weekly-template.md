@@ -30,7 +30,7 @@ https://www.geeksforgeeks.org/difference-between-terminal-console-shell-and-comm
 2. terminal shortcuts 
 
 ✋One thing I'm having trouble understanding:
-1. When trying to push to git, I get error that says permission denied. 
+1. When trying to push to git, I was getting error that said permission denied but got it resolved. 
 
 
 ___
