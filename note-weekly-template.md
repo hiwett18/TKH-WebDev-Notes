@@ -16,6 +16,7 @@ ___
 
 #### 📚Resources:
 https://www.geeksforgeeks.org/difference-between-terminal-console-shell-and-command-line/
+https://docs.google.com/presentation/d/1RyKhGGsP-90BFUHh6pTab-00r8rIqjYTSftg9L-nQok/edit#slide=id.g155ecc5f55f_0_338 
 
 
 #### 💭Daily Reflection:
